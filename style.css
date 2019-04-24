@@ -1,0 +1,31 @@
+body 
+{
+    background-color:#b0c4de;
+}
+
+h1
+{
+    color: blueviolet;
+}
+
+p
+{
+    color: #f00;
+ }
+
+ p span
+ {
+    color: #00f;
+ }
+
+ h1 span
+ {
+    color: rgb(60, 255, 0);
+ }
+
+ span.otriz
+ {
+    color: rgb(255, 17, 0);
+
+ }
+
